@@ -191,12 +191,6 @@ open LocalAtlas.xcodeproj
 
 ---
 
-## Screenshots
-
-*Coming soon — add real app screenshots here*
-
----
-
 ## License
 
 MIT License — See LICENSE file for details.

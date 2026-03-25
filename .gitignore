@@ -1,0 +1,57 @@
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.dSYM.zip
+*.dSYM
+xcuserdata/
+DerivedData/
+*.hmap
+*.ipa
+*.xcarchive
+build/
+.build/
+
+# Swift
+.swiftpm/
+.swift-version
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# npm / Node (for proxy)
+node_modules/
+npm-debug.log
+package-lock.json
+yarn-lock.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Misc
+*.pem
+*.key
+secrets/

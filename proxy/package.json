@@ -1,0 +1,15 @@
+{
+  "name": "localatlas_groqproxy",
+  "version": "1.0.0",
+  "description": "Groq-based proxy for LocalAtlas workflow assistant",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.19.2"
+  }
+}
